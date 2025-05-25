@@ -1,0 +1,15 @@
+
+  {
+     "id": 1,
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "age": 29,
+    "email": "alice.johnson@example.com",
+    "phone": "+1-555-1234",
+    "address": {
+      "street": "123 Maple Street",
+      "city": "Springfield",
+      "state": "IL",
+      "zip": "62704"
+    }
+  }
