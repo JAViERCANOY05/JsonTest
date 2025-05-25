@@ -1,6 +1,6 @@
-
+[
   {
-     "id": 1,
+    "id": 1,
     "firstName": "Alice",
     "lastName": "Johnson",
     "age": 29,
@@ -12,4 +12,61 @@
       "state": "IL",
       "zip": "62704"
     }
+  },
+  {
+    "id": 2,
+    "firstName": "Brian",
+    "lastName": "Lee",
+    "age": 34,
+    "email": "brian.lee@example.com",
+    "phone": "+1-555-5678",
+    "address": {
+      "street": "456 Oak Avenue",
+      "city": "Riverdale",
+      "state": "CA",
+      "zip": "90210"
+    }
+  },
+  {
+    "id": 3,
+    "firstName": "Clara",
+    "lastName": "Martinez",
+    "age": 41,
+    "email": "clara.martinez@example.com",
+    "phone": "+1-555-8765",
+    "address": {
+      "street": "789 Pine Road",
+      "city": "Greenville",
+      "state": "TX",
+      "zip": "75401"
+    }
+  },
+  {
+    "id": 4,
+    "firstName": "David",
+    "lastName": "Nguyen",
+    "age": 22,
+    "email": "david.nguyen@example.com",
+    "phone": "+1-555-4321",
+    "address": {
+      "street": "321 Birch Blvd",
+      "city": "Fairview",
+      "state": "NY",
+      "zip": "10001"
+    }
+  },
+  {
+    "id": 5,
+    "firstName": "Ella",
+    "lastName": "Wright",
+    "age": 27,
+    "email": "ella.wright@example.com",
+    "phone": "+1-555-6789",
+    "address": {
+      "street": "654 Cedar Lane",
+      "city": "Laketown",
+      "state": "FL",
+      "zip": "33101"
+    }
   }
+]
